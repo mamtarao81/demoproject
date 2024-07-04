@@ -1,2 +1,2 @@
 echo “welcome to the demo project”
-echo " This is my first edit"
+echo " This is my first edit for the project"
